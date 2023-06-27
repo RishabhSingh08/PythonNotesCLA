@@ -15,19 +15,19 @@ This is a simple command-line application allows you to add, view, edit, and del
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-notes-app.git
+   git clone (https://github.com/RishabhSingh08/PythonNotesCLA
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd my-notes-app
+   cd PythonNotesCLA
    ```
 
 3. Run the Python script:
 
    ```bash
-   python notes_app.py
+   python main.py
    ```
 
 4. Follow the on-screen prompts to add, view, edit, and delete notes.
